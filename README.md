@@ -1,0 +1,2 @@
+# TASK-7-Get-Basic-Sales-Summary-from-a-Tiny-SQLite-Database-using-Python
+This task involves creating a small SQLite database (sales_data.db) with a sales table and then using Python (with libraries like sqlite3, pandas, and matplotlib) to perform a basic sales analysis. The goal is to:  Connect to the SQLite database.  Run a simple SQL query to retrieve sales data, such as total quantity sold and total revenue 
